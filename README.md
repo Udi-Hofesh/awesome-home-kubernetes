@@ -78,4 +78,5 @@ A curation of projects and resources involving running Kubernetes at home. ⛵
 | [halkeye/helm-charts](https://halkeye.github.io/helm-charts)             | [@halkeye](https://github.com/halkeye)'s collection of Helm charts.        |
 | [k8s-at-home/charts](https://github.com/k8s-at-home/charts)             | Helm charts for applications you run at home.        |
 | [nicholaswilde/helm-charts](https://github.com/nicholaswilde/helm-charts)             | [@nicholaswilde](https://github.com/nicholaswilde)'s collection of Helm charts.        |
-| [truecharts/apps](https://github.com/truecharts/apps)             | Charts that work with [TrueNAS SCALE](https://www.truenas.com/truenas-scale/).        |
+| [truecharts/apps](https://github.com/truecharts/apps)             | Charts that work with [TrueNAS SCALE](https://www.truenas.com/truenas-scale/).       
+| [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard)             | The missing UI for Helm       |
